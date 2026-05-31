@@ -1,0 +1,17 @@
+{
+  "name": "TamaSwap Token List",
+  "logoURI": "https://raw.githubusercontent.com/CryptoPoltr/tamaswap-token-list/main/assets/tamaswap.svg",
+  "keywords": [
+    "tamaswap",
+    "ethereum",
+    "defi",
+    "unhackable"
+  ],
+  "timestamp": "2026-05-31T00:00:00.000Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": []
+}
