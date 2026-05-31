@@ -1,0 +1,63 @@
+name: Update token list
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download Uniswap token list and schema
+        run: |
+          curl -L https://tokens.uniswap.org -o uniswap.json
+          curl -L https://raw.githubusercontent.com/Uniswap/token-lists/main/src/tokenlist.schema.json -o tokenlist.schema.json
+
+      - name: Ensure existing tokenlist file
+        run: |
+          test -f tokenlist.json || cp custom-list.json tokenlist.json
+
+      - name: Merge Uniswap list with custom tokens
+        run: |
+          jq -s '
+            .[0] as $base |
+            .[1] as $custom |
+            .[2] as $old |
+
+            reduce ($custom.tokens + $base.tokens)[] as $t
+              ({}; .[(($t.chainId|tostring) + ":" + ($t.address|ascii_downcase))] = $t)
+            | to_entries
+            | map(.value)
+            as $tokens |
+
+            $custom
+            | .timestamp = now | todateiso8601
+            | .tokens = $tokens
+            | .version.patch = (($old.version.patch // $custom.version.patch // 0) + 1)
+          ' uniswap.json custom-list.json tokenlist.json > tokenlist.tmp.json
+
+          mv tokenlist.tmp.json tokenlist.json
+
+      - name: Validate token list schema
+        run: |
+          npx ajv-cli validate \
+            -s tokenlist.schema.json \
+            -d tokenlist.json \
+            --spec=draft7 \
+            --strict=false
+
+      - name: Commit updated token list
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add tokenlist.json
+          git diff --cached --quiet || git commit -m "Update token list"
+          git push
