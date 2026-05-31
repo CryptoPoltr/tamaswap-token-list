@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Download Uniswap token list and schema
         run: |
@@ -33,13 +33,13 @@ jobs:
             .[2] as $old |
 
             reduce ($custom.tokens + $base.tokens)[] as $t
-              ({}; .[(($t.chainId|tostring) + ":" + ($t.address|ascii_downcase))] = $t)
+              ({}; .[(($t.chainId | tostring) + ":" + ($t.address | ascii_downcase))] = $t)
             | to_entries
             | map(.value)
             as $tokens |
 
             $custom
-            | .timestamp = now | todateiso8601
+            | .timestamp = (now | todateiso8601)
             | .tokens = $tokens
             | .version.patch = (($old.version.patch // $custom.version.patch // 0) + 1)
           ' uniswap.json custom-list.json tokenlist.json > tokenlist.tmp.json
