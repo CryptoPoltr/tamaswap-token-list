@@ -3,7 +3,6 @@
   "logoURI": "https://raw.githubusercontent.com/CryptoPoltr/tamaswap-token-list/main/assets/tamaswap.svg",
   "keywords": [
     "tamaswap",
-    "ethereum",
     "defi",
     "unhackable"
   ],
@@ -13,5 +12,13 @@
     "minor": 0,
     "patch": 0
   },
-  "tokens": []
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x989Ab6b15297697C282f218eA671Fd1df2d0e4C5",
+      "name": "TamaSwap",
+      "symbol": "TAMA",
+      "decimals": 18
+    }
+  ]
 }
