@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-08-06T13:56:38Z",
+  "timestamp": "2026-08-06T23:54:18Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 268
+    "patch": 269
   },
   "tokens": [
     {
@@ -1228,6 +1228,9 @@
           "130": {
             "tokenAddress": "0xEb64b50FeF2A363940369285F86Ae9a68211db59"
           },
+          "8453": {
+            "tokenAddress": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22"
+          },
           "42161": {
             "tokenAddress": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f"
           }
@@ -1354,6 +1357,9 @@
           },
           "130": {
             "tokenAddress": "0xdf78e4F0A8279942ca68046476919A90f2288656"
+          },
+          "8453": {
+            "tokenAddress": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0"
           },
           "42161": {
             "tokenAddress": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE"
@@ -1515,6 +1521,9 @@
           "130": {
             "tokenAddress": "0xAC73671a1762FE835208Fb93b7aE7490d1c2cCb3"
           },
+          "8453": {
+            "tokenAddress": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415"
+          },
           "42161": {
             "tokenAddress": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978"
           }
@@ -1547,6 +1556,9 @@
           "130": {
             "tokenAddress": "0xa7073F530856cD32c2037150dd9763B9BAaED2C5"
           },
+          "8453": {
+            "tokenAddress": "0x259Fac10c5CbFEFE3E710e1D9467f70a76138d45"
+          },
           "42161": {
             "tokenAddress": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999"
           },
@@ -1567,6 +1579,9 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0x36fA435F6def83cbB7a0706d035C9eA062fCb619"
+          },
+          "8453": {
+            "tokenAddress": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14"
           },
           "42161": {
             "tokenAddress": "0x84F5c2cFba754E76DD5aE4fB369CfC920425E12b"
@@ -2477,9 +2492,6 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0x0328A0255866706547B79072DEE54976b157d3D0"
-          },
-          "8453": {
-            "tokenAddress": "0xB78e7D4C5d47Af92942321eD40419dab0E573810"
           }
         }
       }
@@ -2495,9 +2507,6 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0x4aE5712A153fDfDE81C305fF7f2E4e59840aD24B"
-          },
-          "8453": {
-            "tokenAddress": "0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB"
           }
         }
       }
@@ -2568,9 +2577,6 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0xBb2272Ffc0Ef8F439373aDffD45c3591B3204D71"
-          },
-          "8453": {
-            "tokenAddress": "0x0F4d237B09Cb37d207BA60353Dc254d4530D4dF1"
           },
           "42161": {
             "tokenAddress": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
@@ -3016,6 +3022,9 @@
           "130": {
             "tokenAddress": "0x14CFFAD448AeB0876c56B7aa28999C9a4f002943"
           },
+          "8453": {
+            "tokenAddress": "0xDAE49C25fAd3a62a8e8bFB6dA12c46bE611f9f7a"
+          },
           "42161": {
             "tokenAddress": "0xf75eE6D319741057a82a88Eeff1DbAFAB7307b69"
           }
@@ -3083,6 +3092,9 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0xb34b3DE63D22ffC90419c1a439de6C7d46687782"
+          },
+          "8453": {
+            "tokenAddress": "0xd7468c14ae76C3Fc308aEAdC223D5D1F71d3c171"
           }
         }
       }
@@ -3228,6 +3240,9 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0x0176B38b7767451b1B682236eCe2fae853C71a60"
+          },
+          "8453": {
+            "tokenAddress": "0x5259384690aCF240e9b0A8811bD0FFbFBDdc125C"
           },
           "42161": {
             "tokenAddress": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449"
@@ -4095,6 +4110,9 @@
           "10": {
             "tokenAddress": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1"
           },
+          "8453": {
+            "tokenAddress": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E"
+          },
           "42161": {
             "tokenAddress": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
           },
@@ -4118,6 +4136,9 @@
           },
           "130": {
             "tokenAddress": "0xD9b5DA95B3D97c3E9872102fDb47d4c09074952B"
+          },
+          "8453": {
+            "tokenAddress": "0xB4fDe59a779991bfB6a52253B51947828b982be3"
           },
           "42161": {
             "tokenAddress": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB"
@@ -4157,6 +4178,9 @@
           },
           "130": {
             "tokenAddress": "0x5944D2728d5fea7D1F4AA4958E3aEbb3CCFEc7D5"
+          },
+          "8453": {
+            "tokenAddress": "0xCD6dDDa305955AcD6b94b934f057E8b0daaD58dE"
           },
           "42161": {
             "tokenAddress": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC"
@@ -4335,6 +4359,9 @@
           "130": {
             "tokenAddress": "0xD17D5f0DA4200bBfd3D6626AC6aEA2eccbf9fEE0"
           },
+          "8453": {
+            "tokenAddress": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b"
+          },
           "42161": {
             "tokenAddress": "0x8d8e1b6ffc6832E8D2eF0DE8a3d957cAE7ac5067"
           }
@@ -4352,6 +4379,9 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0xC6Fbf362a12804FEca22000f37DB5EFC1F41A7c9"
+          },
+          "8453": {
+            "tokenAddress": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b"
           },
           "42161": {
             "tokenAddress": "0x631a64e240180D4B604F736CB6E19c1A7eC77254"
@@ -5176,9 +5206,6 @@
           "130": {
             "tokenAddress": "0x51A7b9a11f10D04C16306D90dc4EC22b036DD629"
           },
-          "8453": {
-            "tokenAddress": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C"
-          },
           "42161": {
             "tokenAddress": "0x53e70cc1d527b524A1C46Eaa892e4CB35d2ba901"
           }
@@ -5335,9 +5362,6 @@
           "130": {
             "tokenAddress": "0x2982Be2D0c6ae4A7D5BC1c8fe7B630E3BDfb3ce5"
           },
-          "8453": {
-            "tokenAddress": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA"
-          },
           "42161": {
             "tokenAddress": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A"
           },
@@ -5454,14 +5478,7 @@
       "name": "Syndicate",
       "symbol": "SYND",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144",
-      "extensions": {
-        "bridgeInfo": {
-          "8453": {
-            "tokenAddress": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9"
-          }
-        }
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
     },
     {
       "chainId": 1,
@@ -5510,9 +5527,6 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0xAd497996Dc33DC8E8e552824CcEe199420BC7814"
-          },
-          "8453": {
-            "tokenAddress": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b"
           },
           "42161": {
             "tokenAddress": "0x7E2a1eDeE171C5B19E6c54D73752396C0A572594"
@@ -5639,6 +5653,9 @@
         "bridgeInfo": {
           "130": {
             "tokenAddress": "0x1ac70C9e29bC19640E64D938DD8D6A46dbAe6f2e"
+          },
+          "8453": {
+            "tokenAddress": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23"
           }
         }
       }
@@ -5657,6 +5674,9 @@
           },
           "130": {
             "tokenAddress": "0x8e902FDeA73e5CF9621D2Bee82cD79196d8ec63b"
+          },
+          "8453": {
+            "tokenAddress": "0xF8e9E61FFB2b491f7DF29823a76009743671CD96"
           },
           "42161": {
             "tokenAddress": "0xd58D345Fd9c82262E087d2D0607624B410D88242"
@@ -5806,6 +5826,9 @@
           "130": {
             "tokenAddress": "0x8f187aA05619a017077f5308904739877ce9eA21"
           },
+          "8453": {
+            "tokenAddress": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83"
+          },
           "42161": {
             "tokenAddress": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0"
           },
@@ -5871,6 +5894,9 @@
           },
           "1868": {
             "tokenAddress": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+          },
+          "8453": {
+            "tokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
           },
           "42161": {
             "tokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
@@ -13850,9 +13876,58 @@
     },
     {
       "chainId": 4663,
+      "address": "0x3139D77Ace0cbAA5bDfD38bD1F1911a794AF0B0e",
+      "name": "AbCellera Biologics Inc.",
+      "symbol": "ABCL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x232B8ed6377BE97813853B0Ac104c4Cda8378d1B",
+      "name": "Adobe Inc.",
+      "symbol": "ADBE",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5F604fBA1162193A4388A5DFa56F556f3E133cC2",
+      "name": "Aehr Test Systems",
+      "symbol": "AEHR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfAf9cb261B5FCC1f404Bb10CD39C5c6C1974E612",
+      "name": "Advanced Energy Industries Inc.",
+      "symbol": "AEIS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x748c32c3ca24eDf31ea597Db1F3d330a7a6DA3Dc",
+      "name": "Astera Labs Inc.",
+      "symbol": "ALAB",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x36046893810a7E7fCE501229d57dc3FC8c8716d0",
       "name": "Applied Materials",
       "symbol": "AMAT",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x99D9D8663545151603863C5AcbD6FC3218899009",
+      "name": "Ambarella Inc.",
+      "symbol": "AMBA",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
+      "name": "AMC Entertainment Holdings Inc.",
+      "symbol": "AMC",
       "decimals": 18
     },
     {
@@ -13864,6 +13939,13 @@
     },
     {
       "chainId": 4663,
+      "address": "0xDd356AA38F40A7b7076755aC854B6FBb1F0D305B",
+      "name": "Amkor Technology Inc.",
+      "symbol": "AMKR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
       "name": "Amazon",
       "symbol": "AMZN",
@@ -13871,9 +13953,23 @@
     },
     {
       "chainId": 4663,
+      "address": "0x28bABD556b60E53663B8615036479a29c2CDd1Bf",
+      "name": "Arista Networks",
+      "symbol": "ANET",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xb8DBf92F9741c9ac1c32115E78581f23509916FD",
       "name": "Applied Digital",
       "symbol": "APLD",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xA249BAF1063Af884807C1E1400AEf7784836917E",
+      "name": "Applovin Corporation",
+      "symbol": "APP",
       "decimals": 18
     },
     {
@@ -13899,9 +13995,37 @@
     },
     {
       "chainId": 4663,
+      "address": "0x373C06c4f7BDe527D7Dae4BA169E42b55E393CeD",
+      "name": "Aurora Innovation Inc.",
+      "symbol": "AUR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF6290b5e7C26502e2dA514C31509849718EA76A5",
+      "name": "AeroVironment Inc.",
+      "symbol": "AVAV",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
       "name": "Broadcom",
       "symbol": "AVGO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC27dBD474aF5181c5A8777903690D8D262D12648",
+      "name": "Axon Enterprise Inc.",
+      "symbol": "AXON",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x141eEa040c2250eEc0314e336975e81f85f6585e",
+      "name": "AXT Inc",
+      "symbol": "AXTI",
       "decimals": 18
     },
     {
@@ -13920,10 +14044,39 @@
     },
     {
       "chainId": 4663,
+      "address": "0x48E39E56aCdbA37b09020C0b734A613C9a2f100A",
+      "name": "BlackBerry Limited",
+      "symbol": "BB",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x822CC93fFD030293E9842c30BBD678F530701867",
       "name": "Bloom Energy",
       "symbol": "BE",
       "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2F62fC9fAbb470C690f141c28340eD832bB27020",
+      "name": "Vanguard Total Bond Market ETF",
+      "symbol": "BND",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xceF9027c7d6985b85f0BA431125073529A947A68",
+      "name": "Webull Corporation",
+      "symbol": "BULL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+      "name": "Cash Cat",
+      "symbol": "CASHCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174280/standard/cashcat-logo.jpg?1782922765"
     },
     {
       "chainId": 4663,
@@ -13941,6 +14094,13 @@
     },
     {
       "chainId": 4663,
+      "address": "0xaE517A2903E68bd929Dfd15be875F8369D53e94a",
+      "name": "Constellation Energy Corporation",
+      "symbol": "CEG",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF",
       "name": "Celsius",
       "symbol": "CELH",
@@ -13948,9 +14108,37 @@
     },
     {
       "chainId": 4663,
+      "address": "0x44f6D488021f8233B9416294d1FE9b1fEe28382d",
+      "name": "Ciena Corporation",
+      "symbol": "CIEN",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x62200915e7DEab1eC7f79fb246daDbB80eACdDd0",
+      "name": "Clover Health Investments Corp.",
+      "symbol": "CLOV",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBf449977089c718C004a66C554B26B94ef3Ad4De",
+      "name": "Celestica Inc.",
+      "symbol": "CLS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xcBB95BBF36099d34dA091dc6Fa6F49EfA257Cee3",
       "name": "CleanSpark",
       "symbol": "CLSK",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92F9F459F1a9a5AD266b182BE7Bffd1C6c666894",
+      "name": "Coherent Corp.",
+      "symbol": "COHR",
       "decimals": 18
     },
     {
@@ -13976,6 +14164,20 @@
     },
     {
       "chainId": 4663,
+      "address": "0x4D67253bc223e6b0e104F1084c1fb2b669dDC41b",
+      "name": "Credo Technology Group Holding Ltd",
+      "symbol": "CRDO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd95B44124e475743a7589e68F3D74008A5536D44",
+      "name": "Salesforce Inc.",
+      "symbol": "CRM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931",
       "name": "CrowdStrike Holdings",
       "symbol": "CRWD",
@@ -13986,6 +14188,27 @@
       "address": "0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3",
       "name": "CoreWeave",
       "symbol": "CRWV",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF543967EEBB6f1917992eF0E68De63ab07a5a0dA",
+      "name": "Cisco Systems Inc.",
+      "symbol": "CSCO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x63D5a3b6939a33f1e75d8Bcd85759858239600DB",
+      "name": "Cognizant Technology Solutions Class A",
+      "symbol": "CTSH",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa4f319104089FE321dc8093C6E707d4fE190A988",
+      "name": "Carvana Co.",
+      "symbol": "CVNA",
       "decimals": 18
     },
     {
@@ -14004,6 +14227,20 @@
     },
     {
       "chainId": 4663,
+      "address": "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
+      "name": "Trump Media & Technology Group Corp.",
+      "symbol": "DJT",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc02f12B9fe9E707079EC0d546f3050d3F6C1F8bD",
+      "name": "DigitalOcean Holdings Inc.",
+      "symbol": "DOCN",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x33C18e2CC8AE9AE486e785090D86B2CE632FF994",
       "name": "Roundhill Memory ETF",
       "symbol": "DRAM",
@@ -14014,6 +14251,13 @@
       "address": "0x39EC44Bee4F6A116c6F9B8De566848a985C53C60",
       "name": "e.l.f. Beauty",
       "symbol": "ELF",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1c690498150252222C275A5CEd69d3A6b1f52D5E",
+      "name": "iShares MSCI Taiwan ETF",
+      "symbol": "EWT",
       "decimals": 18
     },
     {
@@ -14032,9 +14276,51 @@
     },
     {
       "chainId": 4663,
+      "address": "0xa48F22A46C0F1C46CA7D111CB6c137c271987180",
+      "name": "Fair Isaac Corporation",
+      "symbol": "FICO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x41F4267525a8AFf329540eF24fD83d9044758B33",
+      "name": "Figma Inc.",
+      "symbol": "FIG",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9ECe29A4A2397C0a35fb5fA8EE2b9509130a98cc",
+      "name": "Fiserv Inc.",
+      "symbol": "FISV",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x93Dbb1d2Dc5D63F4abACFF30485273f538Df68Ac",
+      "name": "Comfort Systems USA Inc.",
+      "symbol": "FIX",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x282e87451E10fA6679BC7D76C69BE44cD3fC777C",
       "name": "Fluence Energy",
       "symbol": "FLNC",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x03BC731Ffb162cdd7B98D3C6542bFC291126075d",
+      "name": "Firefly Aerospace Inc.",
+      "symbol": "FLY",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3FB8976980d486084b2eb4a404BD12e72823958f",
+      "name": "Fortinet Inc.",
+      "symbol": "FTNT",
       "decimals": 18
     },
     {
@@ -14046,9 +14332,37 @@
     },
     {
       "chainId": 4663,
+      "address": "0x63b814DDBd6BF339f25Fed8c36158a008D5B373e",
+      "name": "GE Aerospace",
+      "symbol": "GE",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x94B8AAE43A1cCc08Aa64B7D1F29b4D920aF4a0C9",
+      "name": "GE Vernova Inc.",
+      "symbol": "GEV",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
+      "name": "SPDR Gold Shares",
+      "symbol": "GLD",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6",
       "name": "Corning",
       "symbol": "GLW",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2D427692E928fa156ec22acfaBaFA0447C5805B7",
+      "name": "Galaxy Digital Inc.",
+      "symbol": "GLXY",
       "decimals": 18
     },
     {
@@ -14063,6 +14377,62 @@
       "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
       "name": "Alphabet Class A",
       "symbol": "GOOGL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xEB61c0Ed490A367d4E3631cCf8a74B3bfc7E775D",
+      "name": "Huntington Ingalls Industries Inc.",
+      "symbol": "HII",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
+      "name": "Hims & Hers Health Inc.",
+      "symbol": "HIMS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x59dd09d4900C2E4B5F75b7c0d4E6796fcc234Cb1",
+      "name": "Hewlett Packard Enterprise Company",
+      "symbol": "HPE",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAEa445c5F3DB1a462998ccC422A875A361ee5d99",
+      "name": "Howmet Aerospace Inc.",
+      "symbol": "HWM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
+      "name": "International Business Machines",
+      "symbol": "IBM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7c148F74ac7445D1F28366b7FcDC6792a9Fcd0Cf",
+      "name": "ImmunityBio Inc.",
+      "symbol": "IBRX",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xACEF2e09adb47aD6aBeBAD9fF06689E60615C2B6",
+      "name": "iShares MSCI India ETF",
+      "symbol": "INDA",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB853bC83a753342a4f8320ea680b4B1E84118D21",
+      "name": "Infleqtion Inc.",
+      "symbol": "INFQ",
       "decimals": 18
     },
     {
@@ -14102,6 +14472,55 @@
     },
     {
       "chainId": 4663,
+      "address": "0xEAf2512dFC1bEAc608F8794B3793CD4E02894Aa6",
+      "name": "Jabil Inc.",
+      "symbol": "JBL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x03DfbBE0AC4E7bCDaFd08eD41A400326B77D8c80",
+      "name": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb334C5cE741B80B5B671F47F5C269Cb193fe8E24",
+      "name": "Joby Aviation Inc.",
+      "symbol": "JOBY",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
+      "name": "KLA Corporation",
+      "symbol": "KLAC",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x12e3c047bf9AeCAF9dDC98c05C31BFD1dd043993",
+      "name": "Kohl's Corporation",
+      "symbol": "KSS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7FD06a4d81cCfA3F351394E144d5191874C31313",
+      "name": "Kratos Defense & Security Solutions Inc.",
+      "symbol": "KTOS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48d60243c66437c6ac3c2495Be94747aEd5Dfe25",
+      "name": "L3Harris Technologies Inc.",
+      "symbol": "LHX",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x8eF20885F94e3D9bc7eB3080279188Bd5ED7c08C",
       "name": "Lumentum",
       "symbol": "LITE",
@@ -14112,6 +14531,20 @@
       "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
       "name": "Eli Lilly",
       "symbol": "LLY",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x329fcACEb9AD6F9580DD5F643fed0646900D043c",
+      "name": "Lockheed Martin Corp.",
+      "symbol": "LMT",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x57b0030166DB0C31690d1A5aA167e2e26e2C29a4",
+      "name": "Lam Research Corporation",
+      "symbol": "LRCX",
       "decimals": 18
     },
     {
@@ -14144,6 +14577,27 @@
     },
     {
       "chainId": 4663,
+      "address": "0xc6Cbad1016b38B797610c25E1dc7D95988B1f362",
+      "name": "Modine Manufacturing Co",
+      "symbol": "MOD",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x52D50D0280AD1054b43f052bD70a49a212A1b128",
+      "name": "Monolithic Power Systems Inc.",
+      "symbol": "MPWR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
+      "name": "Moderna Inc.",
+      "symbol": "MRNA",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
       "name": "Marvell Technology",
       "symbol": "MRVL",
@@ -14161,6 +14615,13 @@
       "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
       "name": "Strategy Inc.",
       "symbol": "MSTR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC93f4d80e268AB922e871bd169156C3CC41894e6",
+      "name": "MACOM Technology Solutions Holdings Inc.",
+      "symbol": "MTSI",
       "decimals": 18
     },
     {
@@ -14186,9 +14647,23 @@
     },
     {
       "chainId": 4663,
+      "address": "0xf7181b63Fdb858558A74ba96BC42732684cd7965",
+      "name": "Navan Inc.",
+      "symbol": "NAVN",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x9D9c6684F596F66a64C030B93A886D51Fd4D7931",
       "name": "Nebius Group",
       "symbol": "NBIS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x116F00968269B7bfbaD4109cE591d6E74c0601d4",
+      "name": "Cloudflare Inc.",
+      "symbol": "NET",
       "decimals": 18
     },
     {
@@ -14242,9 +14717,37 @@
     },
     {
       "chainId": 4663,
+      "address": "0x8B2f88497f15A18E9D4FFa1a8fFB8538399aE774",
+      "name": "Oklo Inc.",
+      "symbol": "OKLO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xbBD09F72b025360FeE5C928053Dca6248d35be54",
+      "name": "ON Semiconductor Corporation",
+      "symbol": "ON",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8ff63eAeEe3fE54Ba450c4F5538064Ec5A893Aef",
+      "name": "Onto Innovation Inc.",
+      "symbol": "ONTO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
       "name": "Oracle",
       "symbol": "ORCL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x40E7a279850e443f582059ae5dC1c3b6563E6395",
+      "name": "Ouster Inc.",
+      "symbol": "OUST",
       "decimals": 18
     },
     {
@@ -14256,9 +14759,37 @@
     },
     {
       "chainId": 4663,
+      "address": "0xB039597eD45CBa7B6E2fb9E8BE51802969CEe5Be",
+      "name": "Palo Alto Networks Inc.",
+      "symbol": "PANW",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfb2664f07B6Aadd29ea7a59D8859b1AeB8645cDa",
+      "name": "UiPath Inc.",
+      "symbol": "PATH",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x9b23573b156B52565012F5cE02CDF60AFBaa70Be",
       "name": "Penguin Solutions",
       "symbol": "PENG",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
+      "name": "Pfizer Inc.",
+      "symbol": "PFE",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAA4d64474c172010aB57719cb9951E6142a100d3",
+      "name": "Planet Labs PBC",
+      "symbol": "PL",
       "decimals": 18
     },
     {
@@ -14277,9 +14808,23 @@
     },
     {
       "chainId": 4663,
+      "address": "0x237c16D66590F67B886d978ACD362EAeaD8B18c7",
+      "name": "Powell Industries Inc.",
+      "symbol": "POWL",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
       "name": "Permian Resources",
       "symbol": "PR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9Ab02Ead789b6903c3c44d0ED32F9c707CDF12FD",
+      "name": "Quanta Services Inc.",
+      "symbol": "PWR",
       "decimals": 18
     },
     {
@@ -14294,6 +14839,13 @@
       "address": "0x0f17206447090e464C277571124dD2688E48AEA9",
       "name": "Qualcomm",
       "symbol": "QCOM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB7EDfE2F33C1aC06830a971dFb559bDe8A2a3d76",
+      "name": "Quantinuum Inc.",
+      "symbol": "QNT",
       "decimals": 18
     },
     {
@@ -14315,6 +14867,13 @@
       "address": "0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8",
       "name": "Roblox",
       "symbol": "RBLX",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xFDE6b5d9BB419B10C23268c74e369AbFF39C0460",
+      "name": "Red Cat Holdings Inc.",
+      "symbol": "RCAT",
       "decimals": 18
     },
     {
@@ -14354,6 +14913,13 @@
     },
     {
       "chainId": 4663,
+      "address": "0x756Bc80af765C82da966a788858d65aDF14f3793",
+      "name": "Sunrun Inc.",
+      "symbol": "RUN",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xb02e3E1b7f68559427C2D9100566E4F3CC5b7611",
       "name": "RVI",
       "symbol": "RVI",
@@ -14364,6 +14930,13 @@
       "address": "0x95052ddcd5DC25641657424A8Cf04834997E1730",
       "name": "EchoStar",
       "symbol": "SATS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd63ABB2C13d7a8421a8017a712802053568e3C1D",
+      "name": "Schwab US Dividend Equity ETF",
+      "symbol": "SCHD",
       "decimals": 18
     },
     {
@@ -14382,6 +14955,27 @@
     },
     {
       "chainId": 4663,
+      "address": "0xBE274710Bf3d9567e1B290eF6a5F9f90ca016FD8",
+      "name": "iShares 1-3 Year Treasury Bond ETF",
+      "symbol": "SHY",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x77E655E37F4d913fB9540e0d541D824171a60e81",
+      "name": "Silicon Motion Technology Corporation",
+      "symbol": "SIMO",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x285b231728c7E4333799183DF1094d775246a535",
+      "name": "SELLAS Life Sciences Group Inc.",
+      "symbol": "SLS",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f",
       "name": "iShares Silver Trust",
       "symbol": "SLV",
@@ -14396,6 +14990,27 @@
     },
     {
       "chainId": 4663,
+      "address": "0x072f979c2CAc8e1391B0162a87Fee094bF8744a0",
+      "name": "VanEck Semiconductor ETF",
+      "symbol": "SMH",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1Eebee7F74517e0279dFb09d25B0407bEEc3FDd6",
+      "name": "NuScale Power Corporation",
+      "symbol": "SMR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF6589F11Bc40b669e584073F428B05562F568733",
+      "name": "Snap Inc.",
+      "symbol": "SNAP",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
       "name": "Sandisk Corporation",
       "symbol": "SNDK",
@@ -14403,9 +15018,23 @@
     },
     {
       "chainId": 4663,
+      "address": "0xBa0CAB75495255d0cB58E22B648bFED4ECD1F47E",
+      "name": "Snowflake Inc.",
+      "symbol": "SNOW",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x98E75885157C80992A8D41b696D8c9C6Fb30A926",
       "name": "SoFi Technologies",
       "symbol": "SOFI",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x6E3Dfd9f7e1649BaA14D25cac18C94d62dB10A54",
+      "name": "SoundHound AI Inc",
+      "symbol": "SOUN",
       "decimals": 18
     },
     {
@@ -14438,6 +15067,34 @@
     },
     {
       "chainId": 4663,
+      "address": "0xb1969f6604CA1AE7a2cD3F1827876e914594CA2D",
+      "name": "T1 Energy Inc.",
+      "symbol": "TE",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5B97476b922F3305131B8f0B9D333172E87f4aaE",
+      "name": "Atlassian Corporation",
+      "symbol": "TEAM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB1CC0EC7Db69Cf43539119814df40071b9d61793",
+      "name": "Tempus AI Inc.",
+      "symbol": "TEM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2778C5024D5cA2CdB0f8eAD671ffc69963AdCD9C",
+      "name": "Teradyne Inc.",
+      "symbol": "TER",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x89776d4Cd68193597A2fC132cfaC1fDe36CCeA8a",
       "name": "Tower Semiconductor",
       "symbol": "TSEM",
@@ -14459,6 +15116,13 @@
     },
     {
       "chainId": 4663,
+      "address": "0x0b5fb4031cae9163db10B169Ee72685F0EdC8545",
+      "name": "The Trade Desk Inc.",
+      "symbol": "TTD",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x5e81213613b6B86EaB4c6c50d718d34359459786",
       "name": "Take-Two Interactive Software",
       "symbol": "TTWO",
@@ -14469,6 +15133,13 @@
       "address": "0x0E6e67Ba88e7b5d9B67636A215c76779B948dE79",
       "name": "United Microelectronics",
       "symbol": "UMC",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xcF364ea52787e289De6F32077834056E3E70D6A8",
+      "name": "UnitedHealth Group Incorporated",
+      "symbol": "UNH",
       "decimals": 18
     },
     {
@@ -14494,9 +15165,65 @@
     },
     {
       "chainId": 4663,
+      "address": "0x6006ed4B2F94110851ff7509D97D034f0EeD9226",
+      "name": "Vicor Corporation",
+      "symbol": "VICR",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xFA78C12E6488814A0262E4e802749a4a737d5fB7",
+      "name": "Vertiv Holdings Co",
+      "symbol": "VRT",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x26dCbfb34FC83CAbD6990f449674efDc6097fF85",
+      "name": "ViaSat Inc.",
+      "symbol": "VSAT",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x561e2a49212b7cCF47f2744Ccb83e200722fADBc",
+      "name": "Vistra Corp.",
+      "symbol": "VST",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0594134DF3f171a354D9C85eBD65b7A6148F6D09",
+      "name": "Vanguard Total Stock Market ETF",
+      "symbol": "VTI",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
       "address": "0x82DA4646242e1D962e96e932269Dc644c94a9CaA",
       "name": "Workday",
       "symbol": "WDAY",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF52597345A8Edf418bc4071b4a35112472277D3e",
+      "name": "Western Digital Corporation",
+      "symbol": "WDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x348Be1A8663f15edDe5CDf8A96BB69078f7aB6Fd",
+      "name": "TeraWulf Inc.",
+      "symbol": "WULF",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9e7ABD3C9139D14E4c86DcE0e455AAB7A0C2FB3E",
+      "name": "WhiteFiber Inc.",
+      "symbol": "WYFI",
       "decimals": 18
     },
     {
@@ -14518,6 +15245,13 @@
       "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
       "name": "Exxon Mobil",
       "symbol": "XOM",
+      "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xE674C5c071821f48BB2d12CAdb83617Eff438f9e",
+      "name": "Zeta Global Holdings Corp.",
+      "symbol": "ZETA",
       "decimals": 18
     },
     {
@@ -14719,7 +15453,14 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg"
+      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -14769,12 +15510,19 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/51440/large/CLANKER.png?1731232869"
     },
     {
-      "chainId": 8453,
-      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "name": "Compound",
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg"
+      "chainId": 8453,
+      "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -14785,11 +15533,56 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528"
     },
     {
+      "name": "Curve DAO Token",
+      "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52"
+          }
+        }
+      }
+    },
+    {
       "chainId": 8453,
       "address": "0x11030f79109269d796fd0FB956D6244e502757f7",
       "name": "Citrea",
       "symbol": "CTR",
       "decimals": 18
+    },
+    {
+      "chainId": 8453,
+      "address": "0x259Fac10c5CbFEFE3E710e1D9467f70a76138d45",
+      "name": "Cartesi",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11038/thumb/cartesi.png?1592288021",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
+      "name": "Cryptex Finance",
+      "symbol": "CTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14932/thumb/glossy_icon_-_C200px.png?1619073171",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -14897,51 +15690,6 @@
     },
     {
       "chainId": 8453,
-      "address": "0xB78e7D4C5d47Af92942321eD40419dab0E573810",
-      "name": "Goldfinch",
-      "symbol": "GFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19081/thumb/GOLDFINCH.png?1634369662",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB",
-      "name": "Aavegotchi",
-      "symbol": "GHST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12467/thumb/ghst_200.png?1600750321",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x0F4d237B09Cb37d207BA60353Dc254d4530D4dF1",
-      "name": "The Graph",
-      "symbol": "GRT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
       "name": "HOME",
       "symbol": "HOME",
@@ -15028,6 +15776,21 @@
     },
     {
       "chainId": 8453,
+      "address": "0xDAE49C25fAd3a62a8e8bFB6dA12c46bE611f9f7a",
+      "name": "KRYLL",
+      "symbol": "KRL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
       "name": "Keeta",
       "symbol": "KTA",
@@ -15036,11 +15799,41 @@
     },
     {
       "chainId": 8453,
+      "address": "0xd7468c14ae76C3Fc308aEAdC223D5D1F71d3c171",
+      "name": "LCX",
+      "symbol": "LCX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0x9EadbE35F3Ee3bF3e28180070C429298a1b02F93",
       "name": "Limitless",
       "symbol": "LMTS",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/69506/large/limitless.png?1758786338"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x5259384690aCF240e9b0A8811bD0FFbFBDdc125C",
+      "name": "Liquity",
+      "symbol": "LQTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -15088,6 +15881,81 @@
       "symbol": "OPG",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/102172863/large/coingecko_logo.png?1776349115"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x808507121B80c02388fAd14726482e061B8da827"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xB4fDe59a779991bfB6a52253B51947828b982be3",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xCD6dDDa305955AcD6b94b934f057E8b0daaD58dE",
+      "name": "Perpetual Protocol",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xbC396689893D065F41bc2C6EcbeE5e0085233447"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+      "name": "Propy",
+      "symbol": "PRO",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/869/thumb/propy.png?1548332100",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x226bb599a12C826476e3A771454697EA52E9E220"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -15207,14 +16075,7 @@
       "name": "SPX6900",
       "symbol": "SPX",
       "decimals": 8,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C"
-          }
-        }
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
     },
     {
       "chainId": 8453,
@@ -15226,33 +16087,11 @@
     },
     {
       "chainId": 8453,
-      "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
-      "name": "Sushi",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 8453,
       "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
       "name": "Syndicate",
       "symbol": "SYND",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x1bAB804803159aD84b8854581AA53AC72455614E"
-          }
-        }
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
     },
     {
       "chainId": 8453,
@@ -15261,21 +16100,6 @@
       "symbol": "TAO",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
-    },
-    {
-      "chainId": 8453,
-      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-      "name": "tBTC",
-      "symbol": "tBTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88"
-          }
-        }
-      }
     },
     {
       "chainId": 8453,
@@ -15310,6 +16134,36 @@
     },
     {
       "chainId": 8453,
+      "address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+      "name": "OriginTrail",
+      "symbol": "TRAC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xF8e9E61FFB2b491f7DF29823a76009743671CD96",
+      "name": "Tellor",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
       "name": "Intuition",
       "symbol": "TRUST",
@@ -15317,12 +16171,19 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/55976/large/intuition_trust.jpg?1747904133"
     },
     {
-      "chainId": 8453,
-      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
       "name": "Uniswap",
+      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+      "chainId": 8453,
+      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
@@ -15341,12 +16202,19 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
     },
     {
-      "chainId": 8453,
-      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USD Coin",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+      "chainId": 8453,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
+      }
     },
     {
       "chainId": 8453,
