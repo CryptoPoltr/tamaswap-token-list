@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-09-17T20:54:24Z",
+  "timestamp": "2026-09-18T02:58:25Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 431
+    "patch": 432
   },
   "tokens": [
     {
@@ -2955,6 +2955,14 @@
       "symbol": "KAIO",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/102172908/large/69d3d03746bf3e4ddbafcf5f_KAIO_Circle_Icon.png?1776526388"
+    },
+    {
+      "chainId": 1,
+      "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+      "name": "Kraken Wrapped BTC",
+      "symbol": "KBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
     },
     {
       "chainId": 1,
@@ -6061,9 +6069,6 @@
           "143": {
             "tokenAddress": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D"
           },
-          "1868": {
-            "tokenAddress": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35"
-          },
           "42220": {
             "tokenAddress": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e"
           },
@@ -6243,9 +6248,6 @@
           },
           "143": {
             "tokenAddress": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242"
-          },
-          "1868": {
-            "tokenAddress": "0x4200000000000000000000000000000000000006"
           },
           "42161": {
             "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
@@ -6970,6 +6972,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+      "name": "Kraken Wrapped BTC",
+      "symbol": "KBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
     },
     {
       "chainId": 10,
@@ -10900,6 +10910,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+      "name": "Kraken Wrapped BTC",
+      "symbol": "KBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
+    },
+    {
+      "chainId": 130,
       "address": "0x05DBd720fc26F732c8d42Ea89BD7F442EA6AFE80",
       "name": "Keep Network",
       "symbol": "KEEP",
@@ -13923,36 +13941,6 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-          }
-        }
-      }
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 1868,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-          }
-        }
-      }
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1868,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
           }
         }
       }
@@ -19997,6 +19985,86 @@
           }
         }
       }
+    },
+    {
+      "chainId": 57073,
+      "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+      "name": "Kraken Wrapped BTC",
+      "symbol": "KBTC",
+      "decimals": 8,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xAd09Cd20e513E4d8cB78036F77Ab9AfdE8555929",
+      "name": "Kraken Wrapped HYPE",
+      "symbol": "KHYPE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102176672/large/kHYPE.png?1788459787"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x71052BAe71C25C78E37fD12E5ff1101A71d9018F",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x142cdc44890978B506e745bB3Bd11607B7f7faEf",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Token_Logo_2x.png?1765987788"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x2D270e6886d130D724215A266106e6832161EAEd",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69316/large/usdc.jpg?1758186473"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xF50258D3c1dd88946C567920B986A12e65b50dAc",
+      "name": "Tether Gold Tokens",
+      "symbol": "XAUT0",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
     },
     {
       "name": "Wrapped Ether",
