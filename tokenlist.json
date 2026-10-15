@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-10-15T16:12:51Z",
+  "timestamp": "2026-10-15T20:52:58Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 530
+    "patch": 531
   },
   "tokens": [
     {
@@ -19,6 +19,14 @@
       "name": "TamaSwap",
       "symbol": "TAMA",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+      "name": "0G",
+      "symbol": "0G",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
     },
     {
       "chainId": 1,
@@ -1762,6 +1770,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x66661c7229901F568F16BD1551b3bA826F83cE49",
+      "name": "Teller",
+      "symbol": "DEBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175821/large/teller.png?1787703208"
     },
     {
       "chainId": 1,
@@ -7837,6 +7853,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+      "name": "0G",
+      "symbol": "0G",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
+    },
+    {
+      "chainId": 56,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1inch",
       "symbol": "1INCH",
@@ -8226,6 +8250,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 56,
+      "address": "0x66661c7229901F568F16BD1551b3bA826F83cE49",
+      "name": "Teller",
+      "symbol": "DEBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175821/large/teller.png?1787703208"
     },
     {
       "chainId": 56,
@@ -15599,6 +15631,14 @@
     },
     {
       "chainId": 4663,
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
+    },
+    {
+      "chainId": 4663,
       "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
       "name": "United States Oil Fund",
       "symbol": "USO",
@@ -17357,6 +17397,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee",
+      "name": "Whuffie",
+      "symbol": "WHUF",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102176882/large/db-ow-framed-mark-sm_0.25x.png?1788960908"
     },
     {
       "chainId": 8453,
@@ -20155,6 +20203,14 @@
       "decimals": 6,
       "chainId": 42161,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
     },
     {
       "chainId": 42161,
