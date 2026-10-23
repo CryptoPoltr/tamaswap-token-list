@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-10-22T21:08:40Z",
+  "timestamp": "2026-10-23T03:10:41Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 558
+    "patch": 559
   },
   "tokens": [
     {
@@ -408,6 +408,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x50614CC8e44F7814549c223aA31db9296e58057c",
+      "name": "Aligned",
+      "symbol": "ALIGN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53011/standard/signal-2024-12-23-194306_002.png?1735012833"
     },
     {
       "chainId": 1,
@@ -7321,6 +7329,9 @@
           "143": {
             "tokenAddress": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D"
           },
+          "1868": {
+            "tokenAddress": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35"
+          },
           "8453": {
             "tokenAddress": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2"
           },
@@ -7559,6 +7570,9 @@
           },
           "143": {
             "tokenAddress": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242"
+          },
+          "1868": {
+            "tokenAddress": "0x4200000000000000000000000000000000000006"
           },
           "8453": {
             "tokenAddress": "0x4200000000000000000000000000000000000006"
@@ -18412,6 +18426,36 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312"
     },
     {
+      "name": "Tether USD",
+      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1868,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        }
+      }
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1868,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
+      }
+    },
+    {
       "chainId": 4217,
       "address": "0x20C000000000000000000000c412Ec89D0c08be5",
       "name": "Coinbase Wrapped BTC",
@@ -19981,6 +20025,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x53f39e5C53EE40bbc3Da97C3B47BD2968d110a8D",
+      "name": "Aligned",
+      "symbol": "ALIGN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53011/standard/signal-2024-12-23-194306_002.png?1735012833"
     },
     {
       "chainId": 8453,
