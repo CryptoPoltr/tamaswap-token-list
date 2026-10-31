@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-10-30T21:54:02Z",
+  "timestamp": "2026-10-31T03:52:44Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 586
+    "patch": 587
   },
   "tokens": [
     {
@@ -6046,6 +6046,24 @@
     },
     {
       "chainId": 1,
+      "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+      "name": "Spice",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x35b937583F04A24963eb685F728a542240f28Dd8"
+          },
+          "42161": {
+            "tokenAddress": "0xFF0490bF1a58a4151D4D6EC6cb3d2959a561874c"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
       "name": "Shiba Inu",
       "symbol": "SHIB",
@@ -7197,6 +7215,9 @@
           },
           "143": {
             "tokenAddress": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603"
+          },
+          "1868": {
+            "tokenAddress": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
           },
           "8453": {
             "tokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
@@ -17682,6 +17703,21 @@
     },
     {
       "chainId": 137,
+      "address": "0x35b937583F04A24963eb685F728a542240f28Dd8",
+      "name": "Spice",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb753428af26E81097e7fD17f40c88aaA3E04902c"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
       "name": "Shiba Inu",
       "symbol": "SHIB",
@@ -18424,6 +18460,21 @@
       "symbol": "SUPER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1868,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
+      }
     },
     {
       "name": "Tether USD",
@@ -19581,6 +19632,14 @@
       "name": "Schwab US Dividend Equity ETF",
       "symbol": "SCHD",
       "decimals": 18
+    },
+    {
+      "chainId": 4663,
+      "address": "0xE77d354898A44808ff3999947002785CD727BEd5",
+      "name": "Spice",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904"
     },
     {
       "chainId": 4663,
@@ -24464,6 +24523,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x30D20208d987713f46DFD34EF128Bb16C404D10f"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xFF0490bF1a58a4151D4D6EC6cb3d2959a561874c",
+      "name": "Spice",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb753428af26E81097e7fD17f40c88aaA3E04902c"
           }
         }
       }
