@@ -6,11 +6,11 @@
     "defi",
     "unhackable"
   ],
-  "timestamp": "2026-11-06T13:40:36Z",
+  "timestamp": "2026-11-06T22:39:34Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 606
+    "patch": 607
   },
   "tokens": [
     {
@@ -2536,6 +2536,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+      "name": "EUR CoinVertible",
+      "symbol": "EURCV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33415/large/eurcv_%281%29.png?1701752017"
     },
     {
       "chainId": 1,
@@ -20912,6 +20920,14 @@
     },
     {
       "chainId": 8453,
+      "address": "0xD3679306360705ba3580BC4130b56460FB4e6926",
+      "name": "Kor Protocol",
+      "symbol": "KOR",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102179879/large/Frame_29.jpg?1793329019"
+    },
+    {
+      "chainId": 8453,
       "address": "0xDAE49C25fAd3a62a8e8bFB6dA12c46bE611f9f7a",
       "name": "KRYLL",
       "symbol": "KRL",
@@ -26693,6 +26709,14 @@
       "decimals": 6,
       "chainId": 501000101,
       "logoURI": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125"
+    },
+    {
+      "name": "EUR CoinVertible",
+      "address": "DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52",
+      "symbol": "EURCV",
+      "decimals": 2,
+      "chainId": 501000101,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33415/large/eurcv_%281%29.png?1701752017"
     },
     {
       "name": "Fartcoin",
